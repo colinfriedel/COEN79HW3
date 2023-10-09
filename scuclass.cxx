@@ -30,7 +30,6 @@ namespace coen79_hw3{
 
                 //shift array
             }
-
         }
     }
     void scuclass::list(void){
