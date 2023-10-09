@@ -1,0 +1,20 @@
+Colin Friedel
+Sophomore
+COEN
+2026
+2021
+1
+
+John Doe
+Freshman
+Biology
+2027
+2022
+2
+
+Student Three
+Junior
+Finance
+2025
+2020
+3
