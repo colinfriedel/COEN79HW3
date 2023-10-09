@@ -41,7 +41,7 @@ namespace coen79_hw3{
             void erase(int delete_id);
             void list(void);
         
-        friend std::ostream& operator<<(std::ostream& os, const scuclass& c);
+        friend std::ostream& operator<<(std::ostream& os, scuclass& c);
     };
 
 }

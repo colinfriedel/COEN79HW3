@@ -38,9 +38,9 @@ namespace coen79_hw3{
         }
     }
 
-    std::ostream& operator<<(std::ostream& os, const scuclass& c){
+    std::ostream& operator<<(std::ostream& os, scuclass& c){
         cout << "Class Name: " << c.className << endl;
 
-        // c.list();
+        c.list();
     }
 }
