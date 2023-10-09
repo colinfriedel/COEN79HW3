@@ -10,7 +10,9 @@ namespace coen79_hw3{
         arr_id = 0; 
         this->className = className;
     } 
-    scuclass::scuclass(){  //empty constructor??
+    scuclass::scuclass(){
+        //empty constructor??
+        
     } 
 
     void scuclass::addStudent(student &s){
@@ -25,11 +27,15 @@ namespace coen79_hw3{
     }
     void scuclass::erase(int delete_id){
         for(int i=0; i < arr_id; i++){
+            //deletes student by id
             if(students[i].getID() == delete_id){
-                //delete student w/ id 
-
-                //shift array
+                //shifts students 
+                for (int fromIndex = i + 1, toIndex = i; fromIndex < arr_id; fromIndex++, toIndex++){
+                    students[toIndex] = students[fromIndex];
+                }
+                arr_id--;
             }
+
         }
     }
     void scuclass::list(void){
@@ -38,9 +44,9 @@ namespace coen79_hw3{
         }
     }
 
-    std::ostream& operator<<(std::ostream& os, scuclass& c){
+    std::ostream& operator<<(std::ostream& os, const scuclass& c){
         cout << "Class Name: " << c.className << endl;
 
-        c.list();
+        // c.list();
     }
 }
