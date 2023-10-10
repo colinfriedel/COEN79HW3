@@ -1,20 +1,27 @@
-Colin Friedel
-Sophomore
-COEN
-2026
-2021
-1
-
-John Doe
-Freshman
-Biology
-2027
-2022
-2
-
-Student Three
-Junior
-Finance
-2025
-2020
-3
+1 Kimberly Harding 2028
+2 Talha Wagner 2023
+3 Zeeshan Simpson 1998
+4 Sylvie Pitts 1989
+5 Tomos Galvan 1999
+6 Maxwell Calhoun 2022
+7 Rufus Horn 2000
+8 Chantelle Little 2002
+9 Hollie Ballard 2041
+10 Caleb Slater 2009
+11 Norma Stokes 2004
+12 Sumaya Frye 1987
+13 Herman Robbins 1969
+14 Gareth Lopez 1957
+15 Lennox Rodriguez 2020
+16 Susan Golden 2008
+17 Marianne Levine 2015
+18 Rhea Barker 2012
+19 Abbas Copeland 2018
+20 Umar Salazar 1997
+21 Kaya Meyer 2026
+22 Pauline Johnson 2014
+23 Laurence Sosa 2019
+24 Jazmin Hogan 2023
+25 Walter Blankenship 2001
+26 Xander Byrne 2011
+27 Eugene Carr 2010
